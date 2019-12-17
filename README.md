@@ -7,4 +7,4 @@ This the result of a 16000 vocab size tokenizer and just a month of data which i
 
 Also, this data also has subreddit information, so a chatbot with specific genre in mind like sci-fi, comedy or even quantum physics can be made. Note, that training with only data from a specific subreddit will result in more human like chat bot which is expert in the topic of that sub reddit.
 
-If you want to try out the model trained by me, dowload the weights from here: File Uploading..
+If you want to try out the model trained for 20 epochs with 16000 vocab size tokenizer and 1 month data, dowload the weights from here: File Uploading..
