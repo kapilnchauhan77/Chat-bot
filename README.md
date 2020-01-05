@@ -1,4 +1,4 @@
-# Chat-bot
+# Chat-Bot
 This is Chat bot made using Transformer Neural Network Architecture and Reddit Comments dataset
 
 You can train your own model and tokenizer by performing some preprocessing after downloading the dataset from here: https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
